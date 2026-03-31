@@ -19,7 +19,7 @@ Atualmente, meu foco de estudo e desenvolvimento é no ecossistema Backend.
     <img alt="Maven" title="Maven" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
     <img alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
     <img alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-    <img alt="Postman" title="Postman" width="30px" style="padding-right: 10px;" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337b-4019-8a4a-0026c9f6105d.png" />
+    <img alt="Postman" title="Postman" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
     <img alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </p>
 

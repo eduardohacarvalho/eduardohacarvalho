@@ -7,13 +7,16 @@ Olá! Me chamo Eduardo Carvalho, tenho 25 anos e sou de Pernambuco. Sou formado 
 Atualmente, meu foco de estudo e desenvolvimento é no ecossistema Backend.
 
 ### 🚀 Tecnologias e Ferramentas
-* **Linguagens & Frameworks:** Java, Spring Boot
+* **Linguagens & Frameworks:** Java, Spring Boot, JPA, Hibernate
+* **Gerenciamento de Dependências:** Maven
 * **Banco de Dados:** PostgreSQL, MySQL
 * **Controle de Versão:** Git, GitHub
 
 <p align="left">
     <img alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
     <img alt="Spring Boot" title="Spring Boot" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+    <img alt="Hibernate" title="Hibernate" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" />
+    <img alt="Maven" title="Maven" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
     <img alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
     <img alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
     <img alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />

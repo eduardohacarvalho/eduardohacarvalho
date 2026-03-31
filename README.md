@@ -10,7 +10,7 @@ Atualmente, meu foco de estudo e desenvolvimento é no ecossistema Backend.
 * **Linguagens & Frameworks:** Java, Spring Boot, JPA, Hibernate
 * **Gerenciamento de Dependências:** Maven
 * **Banco de Dados:** PostgreSQL, MySQL
-* **Controle de Versão:** Git, GitHub
+* **Controle de Versão & Testes:** Git, GitHub, Postman
 
 <p align="left">
     <img alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
@@ -19,11 +19,14 @@ Atualmente, meu foco de estudo e desenvolvimento é no ecossistema Backend.
     <img alt="Maven" title="Maven" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
     <img alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
     <img alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+    <img alt="Postman" title="Postman" width="30px" style="padding-right: 10px;" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337b-4019-8a4a-0026c9f6105d.png" />
     <img alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </p>
 
 ### 📈 O que estou aprendendo agora
 * Aprofundando conhecimentos em APIs RESTful com Spring Boot.
+* Persistência de dados com **H2 Database**.
+* Deploy de aplicações e infraestrutura com **Heroku**.
 * Boas práticas de programação e versionamento de código.
 
 ### 📫 Como entrar em contato comigo
@@ -44,18 +47,6 @@ Atualmente, meu foco de estudo e desenvolvimento é no ecossistema Backend.
 ### 📊 Estatísticas
 
 <p align="left">
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="160" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=eduardohacarvalho&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=7200" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eduardohacarvalho&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=7200" 
-  />
+  <img align="left" alt="GitHub Stats" height="160" style="padding-right: 10px;" src="https://github-readme-stats-sigma-five.vercel.app/api?username=eduardohacarvalho&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=7200" />
+  <img align="left" alt="GitHub Top Langs" height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eduardohacarvalho&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=7200" />
 </p>

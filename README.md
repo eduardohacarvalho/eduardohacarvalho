@@ -12,22 +12,34 @@ Atualmente, meu foco de estudo e desenvolvimento é no ecossistema Backend.
 * **Banco de Dados:** PostgreSQL, MySQL
 * **Controle de Versão & Testes:** Git, GitHub, Postman
 
+### 🚀 Tecnologias e Ferramentas
+* **Linguagens & Frameworks:** Java, Spring Boot, JPA, Hibernate, **Spring Security**
+* **Segurança:** Autenticação e Autorização com **JWT (JSON Web Token)**
+* **Gerenciamento de Dependências:** Maven
+* **Banco de Dados:** PostgreSQL, MySQL, H2
+* **Controle de Versão & Testes:** Git, GitHub, Postman
+
 <p align="left">
-    <img alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-    <img alt="Spring Boot" title="Spring Boot" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-    <img alt="Hibernate" title="Hibernate" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" />
-    <img alt="Maven" title="Maven" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
-    <img alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-    <img alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-    <img alt="Postman" title="Postman" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
-    <img alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white" alt="Spring Security">
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" alt="Hibernate">
+
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT">
+
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+
+  <img src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
 </p>
 
-### 📈 O que estou aprendendo agora
-* Aprofundando conhecimentos em APIs RESTful com Spring Boot.
-* Persistência de dados com **H2 Database**.
-* Deploy de aplicações e infraestrutura com **Heroku**.
-* Boas práticas de programação e versionamento de código.
+### 📈 O que estou estudando agora
+* Implementação de segurança com **Spring Security** e **JWT**.
+* Gerenciamento de perfis de acesso (**Roles e Authorities**).
+* Persistência de dados e testes em memória com **H2 Database**.
+* Boas práticas de programação (Clean Code) e versionamento.
 
 ### 📫 Como entrar em contato comigo
 * **LinkedIn:** [Eduardo Carvalho / linkedin.com/in/eduhacarvalho/](https://www.linkedin.com/in/eduhacarvalho/)

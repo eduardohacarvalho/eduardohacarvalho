@@ -59,6 +59,6 @@ Atualmente, meu foco de estudo e desenvolvimento é no ecossistema Backend.
 ### 📊 Estatísticas
 
 <p align="left">
-  <img align="left" alt="GitHub Stats" height="160" style="padding-right: 10px;" src="https://github-readme-stats-sigma-five.vercel.app/api?username=eduardohacarvalho&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=7200" />
-  <img align="left" alt="GitHub Top Langs" height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eduardohacarvalho&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=7200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eduardohacarvalho&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eduardohacarvalho&theme=tokyonight" />
 </p>
